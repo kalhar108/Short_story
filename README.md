@@ -2,8 +2,8 @@
 
 **CMPE 255 - Data Mining Short Story**  
 **Paper:** [arXiv:2502.04180](https://arxiv.org/abs/2502.04180)
-Name: Kalhar Mayurbhai Patel
-SJSU ID: 019140511
+**Name: Kalhar Mayurbhai Patel**
+**SJSU ID: 019140511**
 
 ---
 
