@@ -10,7 +10,7 @@
 ## 📋 Assignment Overview
 
 - 1) Medium Article Link: https://medium.com/@kalharpatel2002/revolutionizing-multi-agent-ai-how-agentic-supernets-are-changing-the-game-d2a8c0454985
-- 2) PPT Link:
+- 2) PPT Link: https://docs.google.com/presentation/d/1RZ-jykkGQrQeGOwJmm4vOcQOp83siOSABHvlJ20vzHo/edit?usp=sharing
 - 3) Youtube Video Link: 
 
 This assignment presents a comprehensive analysis of the MaAS (Multi-agent Architecture Search via Agentic Supernet) framework, a groundbreaking approach to automated multi-agent AI system design published at ICML 2025. The work is highly relevant to CMPE 255 as it addresses core data mining concepts including:
